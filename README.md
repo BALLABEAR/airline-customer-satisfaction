@@ -1,5 +1,7 @@
 # Airline Customer Satisfaction
 
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20App-red)](https://airline-customer-satisfaction-qvlqvn2o4hldkkm4sbedsp.streamlit.app/)
+
 Проект посвящён анализу и прогнозированию удовлетворённости клиентов авиакомпании.
 
 ## Данные
